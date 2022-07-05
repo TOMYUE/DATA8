@@ -1,0 +1,16 @@
+1.使用Table()创建一个新的名为flower的表格，其列分别为"Number of petals","Name","Color"
+	Number of petals	Name		Color
+	8			lotus		pink
+	34			sunflower	yellow
+	5			rose		red
+2.使用Table的方法，读取在assetes文件夹中的一个.csv文件生成表格
+3.显示出该表格的行数、列数、列标签；并执行替换一个列标签为自定义标签
+4.取出该表格的一列，比如第三列；再取出该表格中的一个元素比如第三列第四个元素
+5.新增一列进行百分比计算，现实格式自带百分号
+6.读取nba_salaries.csv并新建一个表格，使得各行按照薪资从高到低排列
+7.取出薪资最高的SF位球员，新建表格
+8.完成Data8 6.3Example的简单数据分析
+    1-建表
+    2-分块表格获取小表格进行局部分析
+    3-计算年份之间的百分比变化对比
+
