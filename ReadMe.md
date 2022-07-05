@@ -16,4 +16,5 @@
 - 课程官方网站：[2018年版](http://data8.org/fa18/)
 - 课程配套电子书：https://inferentialthinking.com
 - 课程相关阅读书籍📚：暂无
+- 课程对应python数据科学库手册：http://data8.org/fa18/python-reference.html
 
